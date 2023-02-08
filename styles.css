@@ -1,0 +1,144 @@
+
+
+
+body{
+    background-color: #1e1d2b; 
+}
+
+
+h1{
+    color:#ff702a;
+    font-size: 90px;
+   
+}
+
+h3{
+    color:white;
+    font-size: 30px;
+}
+
+
+
+.menu{
+    color:white;
+    background-color: #ff702a;
+    border-color: transparent;
+    margin-top: 10px;
+    padding: 10px;
+    
+}
+.nav-item{
+    
+background-color: aliceblue;
+}
+
+.col{
+    margin:20px;
+}
+
+.button1{
+    color:white;
+    background-color: transparent;
+    margin:10px;
+    border-color: transparent;
+    font-size: 24px;
+}
+
+.namepag{
+    color:#ff702a;
+    font-size: 50px;
+    display: flex;
+    justify-content: left;
+  
+}
+
+#barrasuperior{
+    margin-bottom: 100px;
+}
+svg{
+    fill: white;
+    width: 30px;
+}
+
+#navbarNav{
+    color: white;
+}
+
+h2{
+    color: white;
+    font-size: 40px;
+}
+h5{
+    color:#ff702a;
+    font-size: 20px;
+}
+
+.texto1{
+    color:white;
+    font-size: 23px;
+}
+
+
+#primeraPag{
+    margin: 5%;
+    height: 100%;
+}
+#segundapag{
+    margin: 5%;
+    height: 100%;
+
+}
+
+.card-text3{
+    font-size: 16px;
+    color:#ff702a;
+    margin-top: -15px;
+}
+
+#tercerapag{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+}
+
+.foodmenu{
+    margin-bottom: 5%;
+}
+
+#cards1{
+    background-color: #ffefe8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cards2{
+    background-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color: transparent;
+}
+#imagenesfood{
+    
+    width: 200px;
+    height: 200px;
+}
+
+.card-text1{
+    font-size: 20px;
+}
+
+.card-text2{
+    margin-top:-15px;
+    font-size: 16px;
+}
+
+.card-text4{
+    color:#ff702a;
+    font-size: 25px;
+}
+.card-text5{
+    color:white;
+    font-size: 20px;
+}
